@@ -1,7 +1,7 @@
 {
-	"host": "46.4.95.80",
+	"host": "game5.falixserver.net",
 	"port": "18473",
-	"username": "Leonardo",
+	"username": "David",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
 		"false : display only necessary logs. (ex: errors on bot & server)"
